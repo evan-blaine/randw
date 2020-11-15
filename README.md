@@ -14,13 +14,13 @@ pip install randw
 ```python
 from randw import words
 
-words.get_noun()
+words.noun()
 
 >>> village
 ```
 
 ```python
-words.get_adj()
+words.adj()
 
 >>> surprised
 ```
