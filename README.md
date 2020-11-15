@@ -1,4 +1,4 @@
-## randn
+## randw
 
 
     A random generator of English nouns and adjectives.
